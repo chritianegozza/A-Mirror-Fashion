@@ -1,0 +1,26 @@
+.quadrado {
+    background-color: green;
+    height: 200px;
+    width: 200px;
+}
+
+.quadrado-absoluto {
+    background-color: blue;
+    color: #fff;
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+
+.relativo {
+    position: relative;
+}
+
+.fixed {
+    position:fixed;
+    top: 20px;
+    right: 30px;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
