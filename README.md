@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 HTML
 
 CSS
-
+-------------------------------------------------------------------------------------------------------------------------------
 ✨ Contribuidora
 Agradeço a nossa Desenvolvedora 
 <td align="center"><a href="https://github.com/chritianegozza"><img src="https://avatars.githubusercontent.com/u/72118415?v=4" width="100px;" alt=""/><br /><sub><b>Christiane Gozza</b></sub></a><br /><a href="https://github.com/chritianegozza">👩🏻‍💻</a></td>
